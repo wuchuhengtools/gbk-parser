@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - 15.2.0
+env:
+  - NPM_TOKEN=${{NPM_TOKEN}}
+  - CODECOV_TOKEN=${{COVER_TOKEN}}
+
+install:
+  - npm install
+scripts:
+  - npm run test
+  - npx codecov --token=$CODECOV_TOKEN
+#  - npm run build
+#  - echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
+#  - npm publish

@@ -1,0 +1,4 @@
+*
+!/dist/*
+!READER.md
+!package.json
