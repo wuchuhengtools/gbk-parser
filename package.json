@@ -16,10 +16,10 @@
     "url": "git+https://github.com/wuchuhengtools/gbk-parser"
   },
   "keywords": [
-    "router",
-    "route",
-    "promise",
-    "util"
+    "中文解码",
+    "gbk",
+    "gbk128",
+    "中文转码"
   ],
   "author": "wuchuheng",
   "license": "MIT",
