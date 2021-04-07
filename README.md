@@ -1,4 +1,5 @@
 <h1 align="center"> GBK中文解码器</h1>
+
 [![Build Status](https://travis-ci.org/wuchuhengtools/gbk-parser.svg?branch=master)](https://travis-ci.org/wuchuhengtools/gbk-parser)
 [![codecov](https://codecov.io/gh/wuchuhengtools/gbk-parser/branch/master/graph/badge.svg?token=R4VV625A4V)](https://codecov.io/gh/wuchuhengtools/gbk-parser)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwuchuhengtools%2Fgbk-parser.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwuchuhengtools%2Fgbk-parser?ref=badge_shield)
