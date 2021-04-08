@@ -10,6 +10,6 @@ install:
 scripts:
   - npm run test
   - npx codecov --token=$CODECOV_TOKEN
-#  - npm run build
-#  - echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
-#  - npm publish --access public
+  - npm run build
+  - echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
+  - npm publish --access public
